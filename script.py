@@ -1,2 +1,2 @@
-thislist = ["apple", "banana", "cherry"]
+thislist = ["Haryzad", "Amirul", "Akmal","Syed"]
 print(thislist)
